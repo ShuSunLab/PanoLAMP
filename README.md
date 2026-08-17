@@ -1,5 +1,5 @@
 # PanoLAMP
-Multi-Modal Datasets for Low-Altitude Multipath Prediction Based on Panoramic Perception and Vision-Language Model
+Multi-Modal Datasets for Low-Altitude Multipath Prediction via Panoramic Perception and Vision-Language Model
 
 The dataset files are hosted externally because they are larger than typical
 GitHub repository files. This GitHub repository provides the dataset description,
