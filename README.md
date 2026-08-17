@@ -17,7 +17,7 @@ Extraction code: uxh3
 
 ## How to Cite
 ```bibtex
-@INPROCEEDINGS{xband2026paper,
+@INPROCEEDINGS{PanoLAMP2026paper,
   author  = {Z. Zeng and S. Sun and M. Tao and Z. Chen and J. Mo and X. Gu},
   booktitle={2026 IEEE/CIC International Conference on Communications in China (ICCC Workshops)}, 
   title   = {Low-Altitude Channel Multipath Prediction via Panoramic Perception and Vision-Language Model},
