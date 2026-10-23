@@ -7,12 +7,12 @@ metadata, configuration files, and citation information.
 
 ## Download
 
-The raw RT channel files can be downloaded from SJTU Pan:
+The raw multi-modal channel files can be downloaded from SJTU Pan:
 
 ```text
-Share name: nonRF_sensing_data_2026_05_15
-URL: https://pan.sjtu.edu.cn/web/share/f22b368e1fcf1ac021128dd9e82eb511
-Extraction code: uxh3
+Share name: PanoLAMP Dataset
+URL: https://pan.sjtu.edu.cn/web/share/d60b86168f71e03eee6839ed39a54224
+Extraction code: 623x
 ```
 
 ## How to Cite
